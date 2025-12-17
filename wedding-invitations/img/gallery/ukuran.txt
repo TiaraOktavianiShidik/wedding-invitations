@@ -1,3 +1,0 @@
-foto yg gede dimensi: 1200x768
-
-crop simpan di folder thumbnail : 400x533
